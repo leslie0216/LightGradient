@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LightGradient</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="connecting">Connecting</string>
+    <string name="bluetoothEnableFailed">Bluetooth is not enable on your device</string>
+    <string name="bluetoothNotSupport">Bluetooth not supported on device</string>
+    <string name="exitMsg">Are you sure you want to exit this app?</string>
+    <string name="warningTitle">Warning</string>
+    <string name="bluetoothSeverNotFound">Can not find server!</string>
+    <string name="notConnected">Not Connected</string>
+    <string name="connected">Connected</string>
+    <string name="exitTitle">Exit</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+</resources>
